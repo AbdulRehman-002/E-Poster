@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159387745638",
+    "project_id": "e-poster-ar",
+    "storage_bucket": "e-poster-ar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159387745638:android:d0d8caed4a5ea353589ca7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159387745638-6hubres99dqo8dr6se23l1er1i72kfa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEOS4VJGkDVxtU-5Np43G5z_5bvB-I9yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159387745638-6hubres99dqo8dr6se23l1er1i72kfa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
